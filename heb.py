@@ -111,6 +111,7 @@ def send_text(storelist):
     #
     # Got a new email for this script
     # Password is gmail app generated password
+    # User can change the email into their own email and generated a password in the setting
     #
     username = 'testcurbsidedelivery@gmail.com'
     password = 'fyickbaqobjcwapa'
